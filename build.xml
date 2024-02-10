@@ -3,3 +3,4 @@
 <target name="info">
 <echo>Hello World - Welcome to Ant integration</echo>
 </target>
+</project>
